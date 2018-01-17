@@ -249,6 +249,7 @@ public class frmh_paciente extends javax.swing.JInternalFrame {
         txtapaterno.setText("");
         txtamaterno.setText("");
         txtdireccion.setText("");
+        txtfecha_nacimiento.setText("00/00/0000");
         txtcelular.setText("");
         txtemail.setText("");
         lbledad.setText("");
@@ -887,6 +888,7 @@ public class frmh_paciente extends javax.swing.JInternalFrame {
         btnguardar.setText("Guardar");
         accion = "guardar";
         checkselecction.setSelected(false);
+        
         seleccionarFamiliar();
         fecha_actual();
 
@@ -903,6 +905,7 @@ public class frmh_paciente extends javax.swing.JInternalFrame {
         btnguardar.setText("Editar");
         habilitar();
         btneliminar.setEnabled(true);
+        jTabbedPane1.setSelectedIndex(0);
         accion = "editar";
 
         int fila = tablalistado.rowAtPoint(evt.getPoint());
