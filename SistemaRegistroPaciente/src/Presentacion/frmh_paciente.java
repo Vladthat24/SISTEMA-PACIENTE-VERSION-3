@@ -1182,7 +1182,7 @@ public class frmh_paciente extends javax.swing.JInternalFrame {
             LocalDate fechaactual = LocalDate.now();
 
             Period periodo = Period.between(fechamacimineto, fechaactual);
-            String resultado = (+ periodo.getYears() + " Años" + periodo.getMonths() + " Meses" + " y " + periodo.getDays() + " Dias");
+            String resultado = (+ periodo.getYears() + " Años " + periodo.getMonths() + " Meses" + " y " + periodo.getDays() + " Dias");
 
             lbledad.setText(resultado);
         }
