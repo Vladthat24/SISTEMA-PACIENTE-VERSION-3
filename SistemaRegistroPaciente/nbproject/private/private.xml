@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
-        <file>
-            <url>src/Logica/fh_paciente.java</url>
-            <bookmark id="1">
-                <name/>
-                <line>164</line>
-                <key/>
-            </bookmark>
-        </file>
-    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/Desarrollo/Documents/GitHub/SistemaPacienteNuevo/SistemaRegistroPaciente/src/Logica/fh_paciente.java</file>
             <file>file:/C:/Users/Desarrollo/Documents/GitHub/SistemaPacienteNuevo/SistemaRegistroPaciente/src/Datos/vh_paciente.java</file>
             <file>file:/C:/Users/Desarrollo/Documents/GitHub/SistemaPacienteNuevo/SistemaRegistroPaciente/src/Presentacion/frminicio.java</file>
@@ -19,6 +10,9 @@
             <file>file:/C:/Users/Desarrollo/Documents/GitHub/SistemaPacienteNuevo/SistemaRegistroPaciente/src/Presentacion/frmlogin.java</file>
             <file>file:/C:/Users/Desarrollo/Documents/GitHub/SistemaPacienteNuevo/SistemaRegistroPaciente/src/Datos/vpersona.java</file>
             <file>file:/C:/Users/Desarrollo/Documents/GitHub/SistemaPacienteNuevo/SistemaRegistroPaciente/src/Logica/conexion.java</file>
+=======
+            <file>file:/C:/Users/Informatica/Documents/GitHub/SistemaPacienteNuevo/SistemaRegistroPaciente/src/Logica/conexion.java</file>
+>>>>>>> fb54739dd055b3e58f28228c5e9dc617c23965ce
         </group>
     </open-files>
 </project-private>
